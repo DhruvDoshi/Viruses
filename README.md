@@ -51,6 +51,6 @@ Just do pranks with frineds and if someone is bullying you and gets out of the l
 
 - [@DhruvDoshi](https://github.com/DhruvDoshi) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/DhruvDoshi/Viruses/contributors) who participated in this project.
 
 
